@@ -1,9 +1,8 @@
 import React from 'react'
 
-const App = ({westbangal}) => {
+const App = () => {
   return (
-    <div>
-      <h1>{westbangal}</h1>
+    <div className='h-screen w-full flex items-center text-black justify-center'>
       
     </div>
   )
