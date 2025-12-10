@@ -31,18 +31,18 @@ footer ✅
 
 # pages
 
-Home
-projects
-process
-latest news
-contact
+Home  ✅ 
+projects ✅
+process ✅
+latest news ✅
+contact ✅
 
 
 # sections
 
-Home
-Homelanding page
-whatwedo
+Home ✅ 
+Homelanding page ✅
+whatwedo ✅
 slidering-projects (Resue) 
 (
  
@@ -63,41 +63,44 @@ getintouch (Resue)
 Footer
  
 
-projects
-Selectedworks (dynaimic routing)
+projects ✅
+Selectedworks (dynaimic routing) ✅
 getintouch (Resue)
 Footer
-
-process
-processlanginpage
-whoweare
-ourprocess
+ 
+process ✅
+processlanginpage ✅
+whoweare ✅
+ourprocess ✅
 marquee (Resue)
 stayuptodate (Resue)
 Footer
 
-latest news
+latest news ✅
 News landing page (
-stayuptodate (Resue)
+stayuptodate (Resue) 
 
 )
-Clammissedbrithday
+Clammissedbrithday ✅
 stayuptodate (Resue)
 getintouch (Resue)
 Footer
 
-contact
-contactlandingpage map pic and form data stored in local  storage
+contact ✅
+contactlandingpage map pic and form data stored in local  storage ✅
 stayuptodate (Resue)
 Footer
 
 
-# hooks
-# Smooth-srolling
+# hooks 
+# Smooth-srolling ✅
 
 
 
 
 # context
 
-# ThemeContext
+# ThemeContext ✅
+
+
+Fonts
