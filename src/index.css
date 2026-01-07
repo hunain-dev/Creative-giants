@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+::-webkit-scrollbar{
+    width: 0%;
+
+}
+
+html,body{
+    background-color: #FFFEF7;
+}
+
+@font-face {
+    font-family:Switzer-light ;
+    src: url(../public/Assets/Fonts/Switzer-Light.otf);
+}
+
+.Switzer-light{
+    font-family:Switzer-light ;
+
+}
+
+
