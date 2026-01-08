@@ -81,7 +81,7 @@ const SlideringProjects = () => {
       {/* HORIZONTAL SECTION */}
       <section
         ref={sectionRef}
-        className="h-full mt-35  w-full overflow-hidden  text-white"
+        className="h-full mt-31  w-full overflow-hidden  text-white"
       >
         <div
           ref={wrapperRef}
@@ -105,15 +105,15 @@ const SlideringProjects = () => {
                     <h2 className="Switzer-light text-[1.2vw] ">London</h2>
                     <h2 className="Switzer-light text-[1.2vw] ">Adam & EVE</h2>
                     <h2 className="Switzer-light text-[1.2vw] ">Crisis</h2>
-                    <p className="Switzer-light text-[1vw] w-sm">A 2.5 ton, 4.3m high, hyper-realistic sculpture of a homeless man, installed at London Kings Cross and Birmingham’s Bullring.
+                    <p className="Switzer-light text-[1vw] mt-4 w-sm">A 2.5 ton, 4.3m high, hyper-realistic sculpture of a homeless man, installed at London Kings Cross and Birmingham’s Bullring.
                     </p>
 
                     </div>
 
                 </div>
                 <div   className="absolute py-10 px-10 top-0 left-0 right-0  w-fit">
-                    <h1 className="Switzer-light text-2xl uppercase">{item.projectno}</h1>
-                    <h3 className="Switzer-light text-8xl mix-blend-difference">{item.projecttitle}</h3>
+                    <h1 className="Switzer-light text-sm uppercase">{item.projectno}</h1>
+                    <h3 className="Switzer-light text-6xl mt-3 mix-blend-difference">{item.projecttitle}</h3>
                 </div>
 
                 </div>

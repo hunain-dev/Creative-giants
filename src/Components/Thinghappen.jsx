@@ -12,7 +12,7 @@ const Thinghappen = () => {
 
             <div className="fontarea flex items-center justify-center gap-7 flex-col text-center h-full w-full absolute top-0 left-0 ">
                 <h2 className='Switzer-light text-white uppercase text-[1.1vw]'>Get started</h2>
-                <h1 className='Switzer-light text-[#FFFEF7] tracking-tight  text-8xl'>Let's make <br /> things happen.</h1>
+                <h1 className='Switzer-light text-[#FFFEF7] tracking-tight  text-7xl'>Let's make <br /> things happen.</h1>
 
             </div>
         </div>
