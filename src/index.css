@@ -21,4 +21,23 @@ html,body{
 }
 
 
-
+@keyframes moveImage {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-2%); 
+    }
+    100% {
+      transform: translateY(0); 
+    }
+  }
+  
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }

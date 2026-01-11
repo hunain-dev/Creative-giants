@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className='h-[20vh] fixed   w-full bg-black'>
+    <div className='h-[20vh]    w-full bg-black'>
         <h1>hey</h1>
       
     </div>

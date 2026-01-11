@@ -14,8 +14,8 @@ const HomeLandingPage = () => {
                 <h3 className="Switzer-light uppercase text-[1.2vw] py-5 font-[600]">Brighton, United Kingdom</h3>
                 <h4 className="Switzer-light text-5xl">Production, design, and the <br /> art of the possible.</h4>
             </div>
-            <div className="flex items-end  justify-center px-8 pt-43 py-8 w-full bg-white absolute top-0 left-0 z-20 text-[#878E90]">
-              <svg
+            <div className="fl items-end  justify-center px-8 pt-43 py-8 w-full bg-white absolute top-0 left-0 z-20 text-[#878E90]">
+              <svg 
                 xmlns="http://www.w3.org/2000/svg"
                 width="100%"
                 viewBox="0 0 307 68"

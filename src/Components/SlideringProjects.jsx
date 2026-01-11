@@ -105,7 +105,7 @@ const SlideringProjects = () => {
                     <h2 className="Switzer-light text-[1.2vw] ">London</h2>
                     <h2 className="Switzer-light text-[1.2vw] ">Adam & EVE</h2>
                     <h2 className="Switzer-light text-[1.2vw] ">Crisis</h2>
-                    <p className="Switzer-light text-[1vw] mt-4 w-sm">A 2.5 ton, 4.3m high, hyper-realistic sculpture of a homeless man, installed at London Kings Cross and Birmingham’s Bullring.
+                    <p className="Switzer-light text-[1.3vw] mt-4 w-sm">A 2.5 ton, 4.3m high, hyper-realistic sculpture of a homeless man, installed at London Kings Cross and Birmingham’s Bullring.
                     </p>
 
                     </div>

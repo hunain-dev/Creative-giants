@@ -3,10 +3,10 @@ import Home from './pages/Home/Home'
 import LocomotiveScroll from 'locomotive-scroll';
 
 const App = () => {
-  const locomotiveScroll = new LocomotiveScroll();
+  const _locomotiveScroll = new LocomotiveScroll();
 
   return (
-    <div className='h-screen w-full'>
+    <div className=' w-full'>
       <Home/>
       
     </div>
