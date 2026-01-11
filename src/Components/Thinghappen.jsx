@@ -4,7 +4,9 @@ const Thinghappen = () => {
   return (
     <div className='h-screen w-full'>
         <div className="backarea grid grid-cols-6 h-full w-full relative">
-            <div className='h-full w-full  border-1 border-r-gray-800'></div>
+            <div className='h-full w-full  border-1 border-r-gray-800'>
+           
+            </div>
             <div className='h-full w-full  border-1 border-r-gray-800'></div>
             <div className='h-full w-full  border-1 border-r-gray-800'></div>
             <div className='h-full w-full  border-1 border-r-gray-800'></div>
